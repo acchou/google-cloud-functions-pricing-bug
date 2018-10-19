@@ -1,0 +1,20 @@
+{
+    "name": "google-cloud-functions-pricing-example",
+    "version": "0.0.1",
+    "description": "",
+    "scripts": {
+        "build": "yarn clean && tsc",
+        "watch": "yarn clean && tsc --watch",
+        "clean": "rm -rf build"
+    },
+    "author": "Andy Chou",
+    "license": "ISC",
+    "dependencies": {
+        "googleapis": "^34.0.0",
+        "tslib": "^1.9.1"
+    },
+    "devDependencies": {
+        "@types/node": "^10.1.0",
+        "typescript": "^3.0.0"
+    }
+}
