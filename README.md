@@ -21,7 +21,7 @@ $ node build/example.js
 
 ## Output
 
-```json
+```
 matching SKUs: [ { name: 'services/29E7-DA93-CA13/skus/8E10-82EB-6917',
     skuId: '8E10-82EB-6917',
     description: 'Invocations',
